@@ -13,5 +13,5 @@ jobs:
       with:
         server: files.000webhost.com
         username: id19632168_doggo
-        password: !*M@niTou78180*!
+        password: M@niTou78180!
         server-dir : public_html/Atelier_SI_Web
